@@ -1,2 +1,2 @@
 # Regression
-Supervised Learning,s Regression Technique implementation in python
+Supervised Learning's Regression Technique implementation in python
