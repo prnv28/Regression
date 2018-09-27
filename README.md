@@ -3,7 +3,7 @@
 It includes implementation of given below with given dataset files.
 
 - Simple Linear Regression
-- Muliple Linear Regression
+- Multiple Linear Regression
 - Polynomial Regression
 - Decision Tree Regression
 - Support Vector Regression
